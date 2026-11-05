@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Asadulloh Yakhyokhonov 👋
 
-<!--
-**ayaxyoxonov130/ayaxyoxonov130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechatronics & Robotics | Embedded Systems | IoT
 
-Here are some ideas to get you started:
+I'm an engineering researcher and developer from Uzbekistan, working on embedded monitoring, industrial automation, and CNC diagnostics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Areas of Interest
+- ESP32 and wireless sensor networks
+- Industrial IoT and remote monitoring
+- CNC machine diagnostics
+- Vibration analysis and predictive maintenance
+- Robotics and automation
+
+## 🚀 Featured Projects
+
+### ESP32 Wireless Monitoring
+ESP32-based monitoring concepts using MPU6050 sensors, wireless communication, and dashboards.
+
+### Vibration Analysis
+Engineering workflows for sensor data processing and vibration analysis.
+
+### Robotics Education
+Educational resources and presentations for robotics and mechatronics.
+
+## 🛠 Technologies
+Python | C/C++ | ESP32 | Arduino | MATLAB | Git
+
+## 📂 Engineering Portfolio
+[Explore my projects](https://github.com/ayaxyoxonov130/engineering-portfolio)
+
+## 🤝 Open Source
+I aim to develop reproducible engineering tools and share practical resources for students, researchers, and developers.
+
+---
+Open to technical collaboration and open-source contributions.
